@@ -14,6 +14,7 @@ A student-project shopping program that facilitate the buying and selling of ite
 - [Items.txt](Items.txt) - Contains the list of items to be sold.
 - [Transactions.dat](Transactions.dat) - Contains the transacted items.
 - [Users.txt](Users.txt) - Contains the list of users.
+- [Demo.pdf](Demo.pdf) - Contains the demo of the program.
 - Function Specification - Contains the function specification of the program.
 - Sample Stock - Contains the sample stock of the program.
 - Source Code - Contains the source code of the program.
