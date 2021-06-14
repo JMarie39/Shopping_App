@@ -1,0 +1,102 @@
+1 35
+cream
+Beauty
+facial
+10 80.00
+
+2 9876
+eyeshadow
+beauty
+for eyes
+10 100.00
+
+9 35
+blouse
+fashion
+pink-pink
+10 100.00
+
+10 35
+short
+fashion
+swimming shorts
+3 150.00
+
+11 35
+blue pen
+stationary
+supplies
+120 80.00
+
+20 9876
+shampoo
+hair
+color black
+0 95.00
+
+39 9876
+yellow pad
+stationary
+supplies
+2 50.00
+
+40 9876
+business pad
+stationary
+supplies
+10 60.00
+
+44 456
+black pen
+stationary
+for writing
+3 11.00
+
+55 456
+Iphone 10
+apple
+2019 brand
+20 8000.00
+
+61 456
+ipad
+apple
+2019 brand
+90 7999.00
+
+62 456
+iphone 12
+apple
+2020 brand
+50 7500.00
+
+65 9876
+bodywash
+body
+lavender scent
+6 80.00
+
+78 456
+deodorant
+body
+for the body
+10 75.00
+
+85 456
+Pants
+fashion
+boyfriend jeans
+7 400.00
+
+96 456
+nike
+shoes
+jordans
+10 500.00
+
+123 456
+face mask
+beauty
+for the face
+27 50.00
+
